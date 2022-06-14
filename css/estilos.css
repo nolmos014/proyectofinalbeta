@@ -1,0 +1,65 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Water+Brush&display=swap');
+
+h1{
+    font-family:"Water Brush",cursive;
+
+}
+body{
+    background-image: url(https://coolbackgrounds.io/images/unsplash/ashim-d-silva-medium-ed909940.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+    background-size: cover;
+}
+
+.container{
+    color: white;
+
+}
+
+.img-thumbnail{
+    border: none;
+    background-color: transparent;
+
+}
+
+.img-thumbnail{
+    display: inline-block;
+    margin: 0 0.5rem;
+  
+    animation: pulse; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s; /* don't forget to set a duration! */
+    
+
+}
+@media screen {
+    
+}
+
+@keyframes .img-thumbnail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
